@@ -1,1 +1,2 @@
 It is the text for the first commit
+And to pull remotely
